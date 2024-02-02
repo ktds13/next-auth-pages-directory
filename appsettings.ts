@@ -1,0 +1,3 @@
+export const SERVER_API_URL = process.env.NEXTAUTH_SERVER_API_URL,
+  BACKEND_API_URL = process.env.NEXT_PUBLIC_API_URL,
+  SIGN_OUT_URL = process.env.NEXT_PUBLIC_SIGN_OUT_URL;
